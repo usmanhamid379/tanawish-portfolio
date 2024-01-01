@@ -43,7 +43,7 @@ const HeroSection = () => {
             I am excited to work with others to create amazing applications.
           </p>
           <div>
-            
+            {/*  */}
             <div
               href="/"
               className={`px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500
